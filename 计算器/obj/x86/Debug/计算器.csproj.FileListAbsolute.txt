@@ -1,0 +1,55 @@
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\bin\Debug\计算器.exe
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\bin\Debug\计算器.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.exe
+c:\users\administrator\documents\visual studio 2010\Projects\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\计算器.exe
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\计算器\计算器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\Administrator\Desktop\计算器\计算器\bin\Debug\计算器.pdb
+F:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.exe
+F:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.pdb
+F:\study\c#\实训\计算器\计算器\bin\Debug\计算器.exe
+F:\study\c#\实训\计算器\计算器\bin\Debug\计算器.pdb
+F:\study\c#\实训\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+F:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+F:\study\c#\实训\计算器\计算器\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\study\c#\实训\计算器\计算器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\study\c#\实训\计算器\计算器\bin\Debug\计算器.exe
+G:\study\c#\实训\计算器\计算器\bin\Debug\计算器.pdb
+G:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.csprojResolveAssemblyReference.cache
+G:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+G:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+G:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.csproj.GenerateResource.cache
+G:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.csproj.CoreCompileInputs.cache
+G:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.exe
+G:\study\c#\实训\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Users\yuange\Desktop\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\yuange\Desktop\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\yuange\Desktop\计算器\计算器\obj\x86\Debug\计算器.csprojResolveAssemblyReference.cache
+C:\Users\yuange\Desktop\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+C:\Users\yuange\Desktop\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+C:\Users\yuange\Desktop\计算器\计算器\obj\x86\Debug\计算器.csproj.GenerateResource.cache
+C:\Users\yuange\Desktop\计算器\计算器\obj\x86\Debug\计算器.csproj.CoreCompileInputs.cache
+C:\Users\yuange\Desktop\计算器\计算器\obj\x86\Debug\计算器.exe
+C:\Users\yuange\Desktop\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Users\yuange\source\repos\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\yuange\source\repos\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\yuange\source\repos\计算器\计算器\obj\x86\Debug\计算器.csprojResolveAssemblyReference.cache
+C:\Users\yuange\source\repos\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
+C:\Users\yuange\source\repos\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+C:\Users\yuange\source\repos\计算器\计算器\obj\x86\Debug\计算器.csproj.GenerateResource.cache
+C:\Users\yuange\source\repos\计算器\计算器\obj\x86\Debug\计算器.csproj.CoreCompileInputs.cache
+C:\Users\yuange\source\repos\计算器\计算器\obj\x86\Debug\计算器.exe
+C:\Users\yuange\source\repos\计算器\计算器\obj\x86\Debug\计算器.pdb
+C:\Users\yuange\source\repos\计算器\计算器\obj\x86\Debug\计算器.About.resources
