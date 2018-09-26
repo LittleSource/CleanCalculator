@@ -1,2 +1,2 @@
 # 简易计算器
-![Image text](http://www.uplinux.com/sites/default/files/dbawang_zhan_banner.jpg)
+![Image text](https://raw.githubusercontent.com/a444168950/CleanCalculator/master/examples.jpg)
