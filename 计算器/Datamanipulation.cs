@@ -15,12 +15,12 @@ namespace 计算器
         public int Count { get { return count; } set { count = value; } }
         public string Ysf { get { return ysf; } set { ysf = value; } }
         public string Temp { get { return temp; } set { temp = value; } }
-        private Datamanipulation()//私有构造函数
+        private Datamanipulation()//私有构造函数->单例模式
         {
             Count = 0;
             Ysf = "";
             Temp = "";
-            this.arrays = new double[200];
+            this.arrays = new double[200];//此处可修改最大运算数个数
         }
         public static Datamanipulation GetDatamanipulation
         {
@@ -43,15 +43,6 @@ namespace 计算器
             this.Count = 0;
             this.ClearArrayAndYsf();
         }
-        public string GetRes()
-        {
-            var res = new System.Data.DataTable().Compute(Merge(this.ysf, this.arrays), "");
-            //取消下面这行注释可使用小源自己写的计算类
-            //var res = new Calculation(this.ysf, this.arrays).Result().ToString();
-            Temp = Convert.ToString(string.Format("{0:F2}", res));
-            count = 0;
-            return Temp;
-        }
         public string Removearr()
         {
             string rem_res =Convert.ToString(arrays[count]);
@@ -59,22 +50,15 @@ namespace 计算器
             count--;
             return rem_res;
         }
-        private string Merge(string ysf,double [] arrays)//将运算符和数据合并为字符串，用于Data.DataTable
+        public string GetRes()
         {
-            string merge_res="";
-            for(int i=0;i<ysf.Length;i++)
-            {
-                if (i == ysf.Length-1)
-                {
-                    merge_res += Convert.ToString(arrays[i]) + ysf[i] + Convert.ToString(arrays[i + 1]);
-                }
-                else
-                {
-                    merge_res += Convert.ToString(arrays[i]) + ysf[i];
-                }
-            }
-            return merge_res;
+            Icalculation cal1 = new Calculation1(this.ysf, this.arrays);
+            //也可使用小源自己写的计算类Calculation2
+            //Icalculation cal2 = new Calculation2(this.ysf, this.arrays);
+            double res = new Context(cal1).Result();
+            Temp = Convert.ToString(string.Format("{0:F2}", res));
+            count = 0;
+            return Temp;
         }
-
     }
 }

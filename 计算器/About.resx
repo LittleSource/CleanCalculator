@@ -117,6 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>v1.0————2018年9月20日
+初始版本成形
+v1.1————2018年9月23日
+美化用户界面
+修复部分运算错误
+修复部分逻辑错误
+v1.2————2018年9月24日
+采用系统类进行运算
+更准确、高效
+重新绘制背景图
+增加按钮透明
+v1.3————2018年9月25日
+新增菜单栏
+菜单栏背景透明
+增加“关于我们”窗口
+删除部分冗余代码
+优化部分细节问题
+v1.4————2018年10月17日
+优化程序结构
+提高可扩展性</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

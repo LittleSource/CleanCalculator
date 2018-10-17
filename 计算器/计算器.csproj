@@ -52,6 +52,8 @@
     <Compile Include="About.Designer.cs">
       <DependentUpon>About.cs</DependentUpon>
     </Compile>
+    <Compile Include="Calculation1.cs" />
+    <Compile Include="Context.cs" />
     <Compile Include="Datamanipulation.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -59,7 +61,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Calculation.cs" />
+    <Compile Include="Calculation2.cs" />
+    <Compile Include="Icalculation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="About.resx">
