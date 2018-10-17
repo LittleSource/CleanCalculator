@@ -11,7 +11,7 @@ namespace 计算器
 {
     public partial class Form1 : Form
     {
-        Datamanipulation data =new Datamanipulation();
+        Datamanipulation data;
         private void Inputinarr(string str)//按运算符键后
         {
             if (label1.Text == "" || data.Temp=="" )
@@ -38,7 +38,10 @@ namespace 计算器
         {
             InitializeComponent();
         }
-
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            data = Datamanipulation.GetDatamanipulation;//单例模式
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             Showtext("1");
@@ -174,11 +177,6 @@ namespace 计算器
         {
             label1.Text = "";
             data.Clear();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)

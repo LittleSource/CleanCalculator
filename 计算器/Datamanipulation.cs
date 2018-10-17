@@ -7,6 +7,7 @@ namespace 计算器
 {
     class Datamanipulation
     {
+        private static Datamanipulation data = new Datamanipulation();
         private static int count;
         private string ysf;
         private string temp;
@@ -14,12 +15,16 @@ namespace 计算器
         public int Count { get { return count; } set { count = value; } }
         public string Ysf { get { return ysf; } set { ysf = value; } }
         public string Temp { get { return temp; } set { temp = value; } }
-        public Datamanipulation()
+        private Datamanipulation()//私有构造函数
         {
             Count = 0;
             Ysf = "";
             Temp = "";
             this.arrays = new double[200];
+        }
+        public static Datamanipulation GetDatamanipulation
+        {
+            get { return data; }
         }
         public void Insertarray()/*将之前输入的数字存入数组*/
         {
